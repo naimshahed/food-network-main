@@ -1,13 +1,16 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 5%;
 }
 .skip{
     display: flex;
     color: rgb(95, 93, 93);
+    margin-bottom: 70px;
 }
 h1{
    font-size: 50px;
+}
+h2{
+    font-size: 30px;
 }
 span{
     color: hotpink;
@@ -17,6 +20,7 @@ span{
 }
 .only-writting{
     margin-top: 10%;
+    margin-left: 5%;
 }
 .half-width img{
     width: 70%;
@@ -25,7 +29,22 @@ span{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(red, tomato);
-    padding: 10px 40px;
-    border-radius: 5px;
+    padding: 15px 30px;
+    border-radius: 20px;
     color: black;
+}
+.about-me{
+    margin-top: 50px;
+}    
+.div{
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-size: 35cm 100%;
+}
+#2nd-image{
+    width: 90%;
 }
