@@ -45,6 +45,41 @@ span{
     background-image: url(images/shapes/7.png);
     background-size: 35cm 100%;
 }
-#2nd-image{
-    width: 90%;
+
+#My-recipies{
+    text-align: center;
+}
+.hard-section{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 15%;
+}
+.box-shadow{
+    box-shadow: 8px 8px 60px rgb(207, 201, 201);
+    width: 28%;
+    padding: 2px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 5px;
+}
+.box-shadow img{
+    width: 6cm;
+    height: 4cm;
+    margin-left: 8px;
+    margin-top: 4px;
+    border-radius: 10px;
+}
+.last-shadow{
+    box-shadow: 5px 5px 20px rgb(148, 143, 143);
+    display: flex;
+    margin: 100px;
+}
+.last-shadow-area{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#footer{
+    color: blanchedalmond;
+    background-color: rgb(1, 1, 5);
+    text-align: center;
 }
