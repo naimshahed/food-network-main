@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 5%;
+}
+.skip{
+    display: flex;
+    color: rgb(95, 93, 93);
+}
+h1{
+   font-size: 50px;
+}
+span{
+    color: hotpink;
+}
+,.half-width{
+    width: 250%;
+}
+.only-writting{
+    margin-top: 10%;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 7%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: black;
+}
